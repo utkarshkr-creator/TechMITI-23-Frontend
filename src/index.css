@@ -1,0 +1,13 @@
+
+.applyscreen {
+    /* min-height: 100vh; */
+    height: auto;
+    margin: 0rem 0rem;
+    padding-top: 5rem;
+    color: white;
+  }
+
+  .small-container {
+    max-width: 600px;
+   
+  }
